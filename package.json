@@ -1,0 +1,15 @@
+{
+  "name": "irv",
+  "version": "0.0.0",
+  "description": "Instant runoff voting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "hapi": "^17.4.0"
+  }
+}
